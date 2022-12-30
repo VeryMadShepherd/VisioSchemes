@@ -1,0 +1,42 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="VisioSchemes.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ElbowRadius" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">2.72</Value>
+    </Setting>
+    <Setting Name="TeeLength" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">3.18</Value>
+    </Setting>
+    <Setting Name="MarkerDistance" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">10.1</Value>
+    </Setting>
+    <Setting Name="MainLine" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="DimensionLine" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0.24</Value>
+    </Setting>
+    <Setting Name="TextSize" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">6</Value>
+    </Setting>
+    <Setting Name="MarkerSize" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">4.15</Value>
+    </Setting>
+    <Setting Name="DimensionAlign" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">5.9</Value>
+    </Setting>
+    <Setting Name="DimensionElongation" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">1.9</Value>
+    </Setting>
+    <Setting Name="DimensionTextElongation" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.8</Value>
+    </Setting>
+    <Setting Name="Sensitivity" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">2.72</Value>
+    </Setting>
+    <Setting Name="DoMarkPipes" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
